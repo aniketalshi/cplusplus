@@ -1,0 +1,14 @@
+longest-prefix-ipadd-match.cpp -> 
+
+Routers use longest prefix matching in case of ip addresses to take decision regarding on
+which subnet to forward the ip. So instead of maintaining a table in router and going through it, code makes use of
+Trie datastructure which increases search efficiency. :)
+
+longest-prefix-string-match.cpp
+inspiried the ipadd matching code
+
+subnetting.cpp ->
+Given the maximum number of host and minimum number of users in the network , code returns the subnet that we can use for in 
+optimal and space efficient manner.
+
+
