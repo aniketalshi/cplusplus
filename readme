@@ -1,14 +1,20 @@
-longest-prefix-ipadd-match.cpp -> 
-
+1)longest-prefix-ipadd-match.cpp 
 Routers use longest prefix matching in case of ip addresses to take decision regarding on
 which subnet to forward the ip. So instead of maintaining a table in router and going through it, code makes use of
 Trie datastructure which increases search efficiency. :)
 
-longest-prefix-string-match.cpp
+2)longest-prefix-string-match.cpp
 inspiried the ipadd matching code
 
-subnetting.cpp ->
+3)subnetting.cpp 
 Given the maximum number of host and minimum number of users in the network , code returns the subnet that we can use for in 
 optimal and space efficient manner.
+
+4)Brainfuck.cpp 
+Brainf*ck is a type of esoteric programming language, with only 8 instructions:
+"> < + - , . [ ]"
+These instructions move an internal data pointer, increment and decrement the value at the data pointer, input and output data, and provide simple looping.
+brainf*ck was written by Urban Muller with the intent of having a language with the smallest-possible compiler.Code is my own version of the brainf*ck 
+interpreter. More info :http://en.wikipedia.org/wiki/Brainfuck#Language_design
 
 
