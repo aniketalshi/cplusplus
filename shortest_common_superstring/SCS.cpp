@@ -1,5 +1,5 @@
 /******************************************************************************
-**	Program to find shortest common superstring given superstrings
+**	Program to find shortest common superstring given strings
 **	Input from file output.txt 
 ** 	Number of strings - SIZE 
 ** 	Strings of length LEN
