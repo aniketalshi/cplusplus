@@ -1,6 +1,6 @@
 1) Shortest Common Superstring:
-Program to find shortest common superstring given N strings. Done using greedy approx of an NP complete problem by constructing
-overlap graph of strings and choosing max spanning tree using heuristics.
+Program to find shortest common superstring given N strings. Done using greedy approx of an NP complete problem by 
+constructing an overlap graph of strings and choosing max spanning tree using heuristics.
 
 2)longest-prefix-ipadd-match.cpp 
 Routers use longest prefix matching in case of ip addresses to take decision regarding on
